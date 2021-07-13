@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haan823&show_icons=true&theme=radical)
 
-### :books:공부중
+### :books: 공부중
 - '스프링 부트와 AWS로 혼자 구현하는 웹 서비스' - 이동욱
 - 'TDD 실천법과 도구' - https://repo.yona.io/doortts/blog/issue/1
