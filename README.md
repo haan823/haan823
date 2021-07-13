@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ### :books: 공부중
 - '스프링 부트와 AWS로 혼자 구현하는 웹 서비스' - 이동욱
 - 'TDD 실천법과 도구' - https://repo.yona.io/doortts/blog/issue/1
+
+-------------------------
+
+### :question: 관심 있는 것
+- MSA
+- CI/CD
