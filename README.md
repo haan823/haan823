@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 -------------------------
 
-### :question: 관심 있는 것
+### :question: 공부 예정
 - MSA
 - CI/CD
