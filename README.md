@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haan823&show_icons=true&theme=radical)
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 ---
 
 ### :books: 공부중
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - MSA
 - CI/CD
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
