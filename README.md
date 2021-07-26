@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=haan823)](https://solved.ac/haan823)
 
----
+-
 
 <!--
 **haan823/haan823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
