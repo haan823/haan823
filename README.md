@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :books: 공부중
+<!-- ### :books: 공부중
 - '스프링 부트와 AWS로 혼자 구현하는 웹 서비스' - 이동욱
 - 'TDD 실천법과 도구' - https://repo.yona.io/doortts/blog/issue/1
 
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ### :question: 공부 예정
 - MSA
-- CI/CD
+- CI/CD -->
 
 
