@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 ### :books: 공부중
 - Spring Boot
 - JPA
-- TDD
-- 무중단배포
 
 
