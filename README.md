@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haan823&show_icons=true&theme=radical)
 ---
-### :books: 공부중
+<!-- ### :books: 공부중
 - Spring Boot
-- JPA
+- JPA -->
 
 
