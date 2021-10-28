@@ -18,4 +18,3 @@ url=https%3A%2F%2Fgithub.com%2Fhaan823&count_bg=%2379C83D&title_bg=%23555555&ico
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haan823&show_icons=true&theme=default&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haan823&layout=compact)](https://github.com/haan823)
