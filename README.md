@@ -7,8 +7,6 @@ url=https%3A%2F%2Fgithub.com%2Fhaan823&count_bg=%2379C83D&title_bg=%23555555&ico
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaan823&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<br>
-
 <h3 align="center">:books:TECH STACK:books:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
