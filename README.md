@@ -1,9 +1,14 @@
-### Hi there 👋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaan823&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=haan823)](https://solved.ac/haan823)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SanghyunKim&fontSize=90)
 
-<h3 align="center">Tech Stack</h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
+<h3 align="center">TECH STACK</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-88CE02?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+</p>
+
+<p align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaan823&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haan823&show_icons=true&theme=radical)
